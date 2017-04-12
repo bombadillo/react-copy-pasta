@@ -1,9 +1,9 @@
 {
-  "name": "react-clipboard.js",
+  "name": "react-copy-pasta",
   "version": "0.0.1",
   "description": "Clipboard.js wrapper for ReactJS",
-  "main": "dist/react-clipboard.js",
-  "browser": "dist/react-clipboard.js",
+  "main": "distribution/index.js",
+  "browser": "distribution/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel source --out-dir distribution",
